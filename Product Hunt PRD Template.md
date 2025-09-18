@@ -1,3 +1,5 @@
+# Product Hunt PRD Template
+
 # **Product/Feature Name: Product Hunt**
 
 **One-Dine Description:** *“for people who love products”*
@@ -179,5 +181,6 @@ To capture higher profile startup personalities like Hunter Walk we may submit p
 ## **Post-Launch Marketing**
 
 1. **Product Deconstructions Blog Posts**
+
 
 **View Original Template:** [Product Hunt’s PRD Template](https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/edit)
