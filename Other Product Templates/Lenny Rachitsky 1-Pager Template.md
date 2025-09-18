@@ -1,3 +1,5 @@
+# Lenny Rachitsky's 1-Pager Template
+
 # [Project Title]
 
 ## **Description**
@@ -45,5 +47,6 @@
 ## **When**
 
 **When does it ship and what are the milestones?**
+
 
 …
