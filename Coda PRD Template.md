@@ -1,4 +1,6 @@
-# Product/Feature Name
+# Coda PRD Template
+
+## Product/Feature Name
 One-line summary of the feature/product.
 
 ## Team
@@ -50,3 +52,4 @@ Insert Miro diagram link here.
 
 
 **View Original Template:** https://coda.io/@john/prd/prd-template-2
+
