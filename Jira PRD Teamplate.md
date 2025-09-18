@@ -1,3 +1,6 @@
+# Jira PRD Template
+
+## Product/Feature Name
 | **Target release** | Type // to add a target release date |
 | --- | --- |
 | **Epic** | Type /Jira to add Jira epics and issues |
@@ -39,5 +42,6 @@
 ## **Out of Scope**
 
 - 
+
 
 ## **Reference materials**
