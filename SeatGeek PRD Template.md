@@ -1,3 +1,5 @@
+# SeatGeek PRD Template
+
 # **[Initiative Name]**
 
 Direct questions to: [product owner] or [#project-slack-channel]
@@ -144,5 +146,6 @@ Document any key decisions that were made.
 ## **Decided Direction**
 
 Describe which direction was chosen to move forward with and why it was chosen.
+
 
 **View Original Template:** [Adam Waxman (SeatGeek) PRD template](https://docs.google.com/document/d/1xc9TZX-7NMfOykzFKR0o0jzTUygoAFzWadxDVR7sNvs/edit?usp=sharing)
