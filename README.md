@@ -28,8 +28,8 @@ A curated collection of Product Requirements Document (PRD) and 1‑Pager templa
 ### Things to keep in mind when drafting a PRD
 
 - Problem & Evidence
--- Who is the user, what job are they trying to get done, and what evidence validates this problem is real and urgent?
--- Why is solving this problem important now (e.g., business priority, competitive threat, market timing)?
+    - Who is the user, what job are they trying to get done, and what evidence validates this problem is real and urgent?
+    - Why is solving this problem important now (e.g., business priority, competitive threat, market timing)?
 - Outcomes & Goals
     - What specific outcomes must change for the user and the business?
     - How will success be measured (metrics, baselines, guardrails)?
