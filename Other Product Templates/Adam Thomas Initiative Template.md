@@ -1,3 +1,5 @@
+# Adam Thomas' Initiative Template
+
 **Remember - THE GOAL IS ONE PAGE. Keep Cutting Until You Get There.**
 
 ## Abstract
@@ -35,5 +37,6 @@
 - Meeting notes and retrospective notes are great to add as the project goes on. This can function as a complete log of the project.
 - It’s fine if different disciplines take copies of this doc and use it for their own purposes, remember this is an ***alignment document***. If teams are taking it back and using it, it’s a good thing!
 - This document is alive. Take it with you to your meetings. Lead with it. When people are sick of talking about it, you are about halfway there.
+
 
 VIew Original Template: [Adam Thomas’s Initiative Template](https://docs.google.com/document/d/1B3GEUwgEIIQVgRp85l4DKLZOTzgGZmBIAjR06p4wuwY/edit#)
