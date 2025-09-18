@@ -1,3 +1,5 @@
+# Aakash Gupta's PRD Template
+
 ## **Product Requirements Document (PRD) for Airbnb Total Price Display**
 
 *This PRD is an example as part of Aakash Gupta’s “[The Modern PRD](https://www.news.aakashg.com/)” guide.*
@@ -155,5 +157,6 @@
 - **Project Kickoff:** Assemble the project team and initiate the development process.
 - **Regular Monitoring:** Set up regular checkpoints to ensure alignment with the project's objectives and timelines.
 - **Stakeholder Communication:** Continuously engage with all stakeholders to ensure smooth implementation and address any concerns promptly.
+
 
 **View Original Template: [Aakash Gupta’s Modern PRD Template](https://www.notion.so/b2191e85baf441ea8f565dad9649e463?pvs=21)**
