@@ -1,3 +1,5 @@
+# Product/Feature Name
+
 ### **1. Header**
 
 In the header, include:
@@ -110,5 +112,6 @@ Take meeting notes directly in the PRD. This ensures that the latest discussions
 ### **7. Appendix**
 
 Keep your PRD short and link to a lengthy appendix with relevant information, such as customer interviews, competitive research, and supporting data.
+
 
 **View Original Template:** [Peter Yang PRD Template](https://creatoreconomy.so/p/my-prd-template-how-to-write-with-ai)
