@@ -1,4 +1,6 @@
-# Product/Feature Name
+# Peter Yang's PRD Template
+
+## Product/Feature Name
 
 ### **1. Header**
 
@@ -115,3 +117,4 @@ Keep your PRD short and link to a lengthy appendix with relevant information, su
 
 
 **View Original Template:** [Peter Yang PRD Template](https://creatoreconomy.so/p/my-prd-template-how-to-write-with-ai)
+
