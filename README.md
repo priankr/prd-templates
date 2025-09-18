@@ -26,7 +26,7 @@ A curated collection of Product Requirements Document (PRD) and 1‑Pager templa
 - **Be clear and concise:** Use plain language, minimize jargon, and add links to research, designs, artifacts, dashboards, etc.
 - **Update often:** Update PRDs as the product, process, and organization evolves.
 
-### Things to keep in mind when drafting a PRD
+### Questions To Ask While Drafting PRDs
 
 - Problem & Evidence
     - Who is the user, what job are they trying to get done, and what evidence validates this problem is real and urgent?
