@@ -1,4 +1,4 @@
-# **Job Story Template**
+# **Intercom Job Story Template**
 
 # **What problem are we solving and why?**
 
