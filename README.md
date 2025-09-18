@@ -15,15 +15,16 @@ A curated collection of Product Requirements Document (PRD) and 1‑Pager templa
 
 ---
 
-## Best Practices distilled from the templates
+## Best Practices For Writing PRDs
 
-- **Problem first, solution second:** Define the customer problem, desired outcome, and evidence before discussing solutions.
-- **Set clear, measurable success criteria:** Define how success will be measured (e.g., metrics, baselines, milestones, and guardrails). Tie these directly to business and user value.
-- **Map the customer journey:** Use end-to-end flows (including edge cases) to show how the user experiences the product. Prioritize critical flows, capture assumptions, and list key features. 
-- **Align the team and record decisions:** Identify stakeholders, capture approvals, open questions, record decision rationale, and maintain a changelog.
-- **Include relevant non‑functional requirements:** Performance, security, accessibility, internationalization, platforms.
-- **Specify scope and constraints:** Constraints, assumptions, dependencies, platforms; explicityly list what's in‑scope vs out‑of‑scope to prevent scope creep.
-- **Optimize for clarity and brevity:** Write in plain language, minimize jargon, and add links to research, designs artifacts, dashboards, etc. instead of bloating the PRD. If required, create a detailed appendix for relevant details and FAQs.
+- **Lead with the problem:** Define the customer problem, desired outcome, and evidence before discussing solutions.
+- **Set success criteria:** Use clear metrics, baselines, and guardrails tied to business and user value.
+- **Define scope:** State assumptions, constraints, dependencies, and what’s in vs. out of scope.
+- **Map user flows:** Capture end-to-end journeys, edge cases, and key features.
+- **Cover non-functional needs:** Include performance, security, accessibility, and platform requirements.
+- **Align stakeholders:** Record owners, decisions, approvals, and open questions in one place.
+- **Be clear and concise:** Use plain language, minimize jargon, and add links to research, designs, artifacts, dashboards, etc.
+- **Update often:** Update PRDs as the product, process, and organization evolves.
 
 ### Things to keep in mind when drafting a PRD
 
